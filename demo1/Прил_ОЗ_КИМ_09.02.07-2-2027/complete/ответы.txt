@@ -1,0 +1,23 @@
+1.2)
+А - 1,2,3
+Б - 1
+В - 1,2,3
+Г - 4,5
+Д - 4
+
+1.4) 1, 2, 4, 5, 6
+
+1.5) 
+А - INTEGER
+Б - VARCHAR
+В - VARCHAR
+Г - DATE
+Д - VARCHAR
+Е - VARCHAR
+Ж - NUMERIC
+З - INTEGER
+И - NUMERIC
+К - INTEGER
+Л - NUMERIC
+М - INTEGER
+
